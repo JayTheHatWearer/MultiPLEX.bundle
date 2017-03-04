@@ -6,7 +6,7 @@ from xmltv_parser import GuideReloader
 import re
 
 NAME = 'MultiPLEX'
-PREFIX = '/video/iptv'
+PREFIX = '/video/MultiPLEX'
 
 ####################################################################################################
 def Start():
